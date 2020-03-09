@@ -1,3 +1,3 @@
 # REMOTE
-requete-Git4
+Celle-ci est la requete-Git4
 (wcs)Git4
